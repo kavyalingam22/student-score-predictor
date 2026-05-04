@@ -14,6 +14,10 @@ This project predicts student exam scores based on study hours using a simple Li
 - Visualizes data using graph
 - Demonstrates basic machine learning workflow
 
+## Example Output
+Enter study hours: 6  
+Predicted Score: 65.89
+
 ## What I Learned
 - Data preprocessing using Pandas
 - Training a Linear Regression model
